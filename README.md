@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá Mundo</h1></summary>
+    <summary><h1 style="display: inline-block">Olá Mundo!!</h1></summary>
 </div>
 
 - 👋 Olá , sou o Cauã!! Um apaixonado estudante de Programação do Brasil.
@@ -19,6 +19,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_cauamq/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?ogbl#inbox?compose=new)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-medeiros-3033952a9/)
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=dark) 
 <p align="left">
